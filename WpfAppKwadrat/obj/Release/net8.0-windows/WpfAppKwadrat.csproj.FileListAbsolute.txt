@@ -1,0 +1,4 @@
+C:\Users\egzamin\source\repos\WpfAppKwadrat\WpfAppKwadrat\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\egzamin\source\repos\WpfAppKwadrat\WpfAppKwadrat\obj\Release\net8.0-windows\App.g.cs
+C:\Users\egzamin\source\repos\WpfAppKwadrat\WpfAppKwadrat\obj\Release\net8.0-windows\WpfAppKwadrat_MarkupCompile.cache
+C:\Users\egzamin\source\repos\WpfAppKwadrat\WpfAppKwadrat\obj\Release\net8.0-windows\WpfAppKwadrat_MarkupCompile.lref

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfAppKwadrat/1.0.0": {
+        "runtime": {
+          "WpfAppKwadrat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfAppKwadrat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
